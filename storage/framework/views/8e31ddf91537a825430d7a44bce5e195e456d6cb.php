@@ -1,0 +1,1 @@
+<span><?php echo e($time); ?></span><?php /**PATH O:\dockerproject\homefood\resources\views/orders/partials/time.blade.php ENDPATH**/ ?>
