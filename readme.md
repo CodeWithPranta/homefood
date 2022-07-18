@@ -1,9 +1,5 @@
-# FoodTiger | QR SaaS | WhatsApp | LionPOS
-
-[![FT](https://i.imgur.com/gcgJEb2.jpg)](https://codecanyon.net/user/mobidonia/portfolio)
-[![QR](https://i.imgur.com/bqpWgnU.jpg)](https://codecanyon.net/user/mobidonia/portfolio)
-[![WP](https://i.imgur.com/VgHDizv.jpg)](https://codecanyon.net/user/mobidonia/portfolio)
-
+# Homefood | QR SaaS | WhatsApp | LionPOS
+Multi vendor homefood delivery in laravel
 
 ## Test
 sail artisan test --testsuite=Feature
