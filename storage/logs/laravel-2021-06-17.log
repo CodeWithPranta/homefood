@@ -1,0 +1,132 @@
+[2021-06-17 00:06:17] local.ERROR: Uncaught Error: Class "Auth0\Login\Auth0User" not found in /home/sahil/CodeLab/FoodTiger-2.4.3/app/Models/MyAuth0User.php:8
+Stack trace:
+#0 /home/sahil/CodeLab/FoodTiger-2.4.3/vendor/composer/ClassLoader.php(444): include()
+#1 /home/sahil/CodeLab/FoodTiger-2.4.3/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile()
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass()
+#3 Command line code(1): class_exists()
+#4 [internal function]: {closure}()
+#5 Command line code(1): array_filter()
+#6 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Class \"Auth0\\Login\\Auth0User\" not found in /home/sahil/CodeLab/FoodTiger-2.4.3/app/Models/MyAuth0User.php:8
+Stack trace:
+#0 /home/sahil/CodeLab/FoodTiger-2.4.3/vendor/composer/ClassLoader.php(444): include()
+#1 /home/sahil/CodeLab/FoodTiger-2.4.3/vendor/composer/ClassLoader.php(322): Composer\\Autoload\\includeFile()
+#2 [internal function]: Composer\\Autoload\\ClassLoader->loadClass()
+#3 Command line code(1): class_exists()
+#4 [internal function]: {closure}()
+#5 Command line code(1): array_filter()
+#6 {main}
+  thrown at /home/sahil/CodeLab/FoodTiger-2.4.3/app/Models/MyAuth0User.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-06-17 00:07:17] local.ERROR: Uncaught Error: Class "Auth0\Login\Auth0User" not found in /home/sahil/CodeLab/FoodTiger-2.4.3/app/Models/MyAuth0User.php:8
+Stack trace:
+#0 /home/sahil/CodeLab/FoodTiger-2.4.3/vendor/composer/ClassLoader.php(444): include()
+#1 /home/sahil/CodeLab/FoodTiger-2.4.3/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile()
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass()
+#3 Command line code(1): class_exists()
+#4 [internal function]: {closure}()
+#5 Command line code(1): array_filter()
+#6 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Class \"Auth0\\Login\\Auth0User\" not found in /home/sahil/CodeLab/FoodTiger-2.4.3/app/Models/MyAuth0User.php:8
+Stack trace:
+#0 /home/sahil/CodeLab/FoodTiger-2.4.3/vendor/composer/ClassLoader.php(444): include()
+#1 /home/sahil/CodeLab/FoodTiger-2.4.3/vendor/composer/ClassLoader.php(322): Composer\\Autoload\\includeFile()
+#2 [internal function]: Composer\\Autoload\\ClassLoader->loadClass()
+#3 Command line code(1): class_exists()
+#4 [internal function]: {closure}()
+#5 Command line code(1): array_filter()
+#6 {main}
+  thrown at /home/sahil/CodeLab/FoodTiger-2.4.3/app/Models/MyAuth0User.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-06-17 00:08:17] local.ERROR: Uncaught Error: Class "Auth0\Login\Auth0User" not found in /home/sahil/CodeLab/FoodTiger-2.4.3/app/Models/MyAuth0User.php:8
+Stack trace:
+#0 /home/sahil/CodeLab/FoodTiger-2.4.3/vendor/composer/ClassLoader.php(444): include()
+#1 /home/sahil/CodeLab/FoodTiger-2.4.3/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile()
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass()
+#3 Command line code(1): class_exists()
+#4 [internal function]: {closure}()
+#5 Command line code(1): array_filter()
+#6 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Class \"Auth0\\Login\\Auth0User\" not found in /home/sahil/CodeLab/FoodTiger-2.4.3/app/Models/MyAuth0User.php:8
+Stack trace:
+#0 /home/sahil/CodeLab/FoodTiger-2.4.3/vendor/composer/ClassLoader.php(444): include()
+#1 /home/sahil/CodeLab/FoodTiger-2.4.3/vendor/composer/ClassLoader.php(322): Composer\\Autoload\\includeFile()
+#2 [internal function]: Composer\\Autoload\\ClassLoader->loadClass()
+#3 Command line code(1): class_exists()
+#4 [internal function]: {closure}()
+#5 Command line code(1): array_filter()
+#6 {main}
+  thrown at /home/sahil/CodeLab/FoodTiger-2.4.3/app/Models/MyAuth0User.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-06-17 00:09:17] local.ERROR: Uncaught Error: Class "Auth0\Login\Auth0User" not found in /home/sahil/CodeLab/FoodTiger-2.4.3/app/Models/MyAuth0User.php:8
+Stack trace:
+#0 /home/sahil/CodeLab/FoodTiger-2.4.3/vendor/composer/ClassLoader.php(444): include()
+#1 /home/sahil/CodeLab/FoodTiger-2.4.3/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile()
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass()
+#3 Command line code(1): class_exists()
+#4 [internal function]: {closure}()
+#5 Command line code(1): array_filter()
+#6 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Class \"Auth0\\Login\\Auth0User\" not found in /home/sahil/CodeLab/FoodTiger-2.4.3/app/Models/MyAuth0User.php:8
+Stack trace:
+#0 /home/sahil/CodeLab/FoodTiger-2.4.3/vendor/composer/ClassLoader.php(444): include()
+#1 /home/sahil/CodeLab/FoodTiger-2.4.3/vendor/composer/ClassLoader.php(322): Composer\\Autoload\\includeFile()
+#2 [internal function]: Composer\\Autoload\\ClassLoader->loadClass()
+#3 Command line code(1): class_exists()
+#4 [internal function]: {closure}()
+#5 Command line code(1): array_filter()
+#6 {main}
+  thrown at /home/sahil/CodeLab/FoodTiger-2.4.3/app/Models/MyAuth0User.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-06-17 00:10:17] local.ERROR: Uncaught Error: Class "Auth0\Login\Auth0User" not found in /home/sahil/CodeLab/FoodTiger-2.4.3/app/Models/MyAuth0User.php:8
+Stack trace:
+#0 /home/sahil/CodeLab/FoodTiger-2.4.3/vendor/composer/ClassLoader.php(444): include()
+#1 /home/sahil/CodeLab/FoodTiger-2.4.3/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile()
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass()
+#3 Command line code(1): class_exists()
+#4 [internal function]: {closure}()
+#5 Command line code(1): array_filter()
+#6 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Class \"Auth0\\Login\\Auth0User\" not found in /home/sahil/CodeLab/FoodTiger-2.4.3/app/Models/MyAuth0User.php:8
+Stack trace:
+#0 /home/sahil/CodeLab/FoodTiger-2.4.3/vendor/composer/ClassLoader.php(444): include()
+#1 /home/sahil/CodeLab/FoodTiger-2.4.3/vendor/composer/ClassLoader.php(322): Composer\\Autoload\\includeFile()
+#2 [internal function]: Composer\\Autoload\\ClassLoader->loadClass()
+#3 Command line code(1): class_exists()
+#4 [internal function]: {closure}()
+#5 Command line code(1): array_filter()
+#6 {main}
+  thrown at /home/sahil/CodeLab/FoodTiger-2.4.3/app/Models/MyAuth0User.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2021-06-17 00:11:17] local.ERROR: Uncaught Error: Class "Auth0\Login\Auth0User" not found in /home/sahil/CodeLab/FoodTiger-2.4.3/app/Models/MyAuth0User.php:8
+Stack trace:
+#0 /home/sahil/CodeLab/FoodTiger-2.4.3/vendor/composer/ClassLoader.php(444): include()
+#1 /home/sahil/CodeLab/FoodTiger-2.4.3/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile()
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass()
+#3 Command line code(1): class_exists()
+#4 [internal function]: {closure}()
+#5 Command line code(1): array_filter()
+#6 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught Error: Class \"Auth0\\Login\\Auth0User\" not found in /home/sahil/CodeLab/FoodTiger-2.4.3/app/Models/MyAuth0User.php:8
+Stack trace:
+#0 /home/sahil/CodeLab/FoodTiger-2.4.3/vendor/composer/ClassLoader.php(444): include()
+#1 /home/sahil/CodeLab/FoodTiger-2.4.3/vendor/composer/ClassLoader.php(322): Composer\\Autoload\\includeFile()
+#2 [internal function]: Composer\\Autoload\\ClassLoader->loadClass()
+#3 Command line code(1): class_exists()
+#4 [internal function]: {closure}()
+#5 Command line code(1): array_filter()
+#6 {main}
+  thrown at /home/sahil/CodeLab/FoodTiger-2.4.3/app/Models/MyAuth0User.php:8)
+[stacktrace]
+#0 {main}
+"} 
